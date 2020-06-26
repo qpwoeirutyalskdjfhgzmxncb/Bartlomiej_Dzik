@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial scale=1.0">
+        <meta name="description" content="OPIS STRONY">
+        <title>Kurs HTML5 i CSS3</title>
+        <link href="https://fonts.googleapis.com/css2?family=Piedra&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="b.css">
+        <style>
+            body{
+    background: url("https://dailyweb.pl/wp-content/uploads/2014/04/html5-1200x810.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+    font-family: Piedra;
+}
+
+div{
+    width: 70%;
+    width: 1140px;
+    margin: auto;
+    padding: 0 15px;
+}
+
+p{
+    background: rgba(255, 255, 255, 0.5);
+    border-style: inset;
+    border-color: black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.go{
+    text-decoration: none;
+    border-style: inset;
+    border-color: black;
+    background-color: green;
+    margin-left: 25px;
+    color: yellow;
+}
+
+.go:active{
+    color: red;
+}
+
+.go:hover{
+    color: green;
+    background-color: yellow;
+}
+
+footer{
+    background: red;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+        </style>
+    </head>
+    <body>
+        <div class="containe">
+            <p>1. SZKIELET<a class="go" href="1.html">ZACZNIJ</a></p>
+            <p>2. PODSTAWOWE ZNACZNIKI<a class="go" href="2.html">ZACZNIJ</a></p>
+            <p>3. NAGŁÓWKI I AKAPITY<a class="go" href="3.html">ZACZNIJ</a></p>
+            <p>4. LISTA NUMEROWANA<a class="go" href="#">ZACZNIJ</a></p>
+            <p>5. LISTA DEFINICJI<a class="go" href="#">ZACZNIJ</a></p>
+            <p>6. HIPERŁĄCZA<a class="go" href="#">ZACZNIJ</a></p>
+            <p>7. ZNAKI SPECJALNE<a class="go" href="#">ZACZNIJ</a></p>
+            <p>8. TABELE<a class="go" href="#">ZACZNIJ</a></p>
+            <p>9. WSTAWIANIE GRAFIKI<a class="go" href="#">ZACZNIJ</a></p>
+            <p>10. FORMULARZE<a class="go" href="#">ZACZNIJ</a></p>
+        </div>
+        <footer>Wszelkie prawa zastrzeżone &copy;</footer>
+    </body>
+</html>
