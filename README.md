@@ -1,5 +1,3 @@
-# Bartlomiej_Dzik
-<!DOCTYPE html>
 <html lang="pl-PL">
     <head>
         <meta charset="utf-8">
