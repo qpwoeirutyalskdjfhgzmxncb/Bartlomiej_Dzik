@@ -131,7 +131,7 @@ footer{
                 <div class="sidebar">
                 <aside>
                     <h2>KURS JavaScript</h2>
-                    <p>Już w krótce</p>
+                    <p>Już wkrótce</p>
                 </aside>
                 </div>
             </div>
