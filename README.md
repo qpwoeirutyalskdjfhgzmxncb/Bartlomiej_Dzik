@@ -7,7 +7,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Piedra&display=swap" rel="stylesheet">
         <style>
     body{
-    background: url("https://lh3.googleusercontent.com/proxy/FbPH0cbfjMoxgHe7kepwgyhPM_DXUtKbqMGZGtK1PEsQO5Op8ZyEPsRP134FXxBM55oCePpcY-wNkE-3-c55sW9jqOK7FroTld3ijBc");
+    background: url("https://i.ytimg.com/vi/zHLvtHlxs5U/maxresdefault.jpg");
     background-size: 100%;
     background-attachment: fixed;
     font-family: Piedra;
