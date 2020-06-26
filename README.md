@@ -124,7 +124,7 @@ footer{
                         <img src="https://rybianski.pl/wp-content/uploads/2017/08/css3.png" alt="OBRAZ CSS3">
                         <figcaption>LOGO CSS3</figcaption>
                     </figure>
-                    <a class="Start" href="#">Rozpocznij</a><p>Kurs CSS3 nauczy cię jak modelować strone internetową</p>
+                    <a class="Start" href="https://www.google.com/">Rozpocznij</a><p>Kurs CSS3 nauczy cię jak modelować strone internetową</p>
                 </article>
                 </section>
                 </div>
