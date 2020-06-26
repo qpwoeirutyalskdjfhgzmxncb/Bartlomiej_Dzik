@@ -9,7 +9,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Piedra&display=swap" rel="stylesheet">
         <style>
     body{
-    background: url("https://lh3.googleusercontent.com/proxy/MLIC8FfVDUxQ300kltglHdTrNpQ14ydSP9aCgXaxuIcUd5OZZHO0yzQTY9-cvUKa20eCUHFOCcbZlvtq9xYGlqCQXfIhnG7Rp1bBPBc");
+    background: url("https://lh3.googleusercontent.com/proxy/FbPH0cbfjMoxgHe7kepwgyhPM_DXUtKbqMGZGtK1PEsQO5Op8ZyEPsRP134FXxBM55oCePpcY-wNkE-3-c55sW9jqOK7FroTld3ijBc");
     background-size: 100%;
     background-attachment: fixed;
     font-family: Piedra;
